@@ -3,14 +3,14 @@ body {
     padding-top: 40px;
     padding-right: 40px;
     padding-bottom: 40px;
-    background: blue;
+    background: darkcyan;
     font-family: 'Montserrat', sans-serif;
 }
 
 .wrapper {
     display: flex;
     flex-direction: row-reverse;
-    background: yellow;
+    background: white;
     width: 1200px;
     margin: auto;
 }
